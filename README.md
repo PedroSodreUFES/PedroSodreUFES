@@ -9,13 +9,6 @@ I'm currently working as a ontology researcher at NEMO(Ontology and Modelling St
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=PedroSodreUFES&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSodreUFES&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
